@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ```math
-$$\ce{$\unicode[goombafont; pointer-events: none; z-index: 50; position: fixed; top: 0; left: 0; height: 100vh; background-size: 500px; width: 100vw; background-image: url(https://github.com/logykk/trollface/blob/main/trollface.png?raw=true); background-repeat: no-repeat no-repeat; background-position: center;]{x0000}$}$$
+$$\ce{$\unicode[goombafont; pointer-events: none; z-index: 50; position: fixed; top: 0; left: 0; height: 100vh; background-size: 100vh; width: 100vw; opacity: 0.05; background-image: url(https://github.com/logykk/trollface/blob/main/trollface.png?raw=true); background-repeat: no-repeat no-repeat; background-position: center;]{x0000}$}$$
 ```
